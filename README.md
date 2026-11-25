@@ -10,7 +10,7 @@ Self-contained: .NET Desktop устанавливать не нужно. Уст�
 
 - файл: `setup.exe`
 - размер: 66 448 384 байт
-- SHA-256: `0d8912a8d32897ee5fb7251f1e418f81cabcd14571e8e435b26dff6915fc57b1`
+- SHA-256: `61e739089363a6aaf31d9002e4ba477d925706013ee124b3d8b3b65ec6c41662`
 
 Проверка:
 

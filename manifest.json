@@ -7,27 +7,27 @@
     "displayName": "Sinteya Setup Builder",
     "publisher": "Sinteya"
   },
-  "builtAt": "2026-11-25T21:18:12.5729373Z",
+  "builtAt": "2026-11-25T22:10:36.7924804Z",
   "builder": {
     "name": "Sinteya Setup Builder",
     "version": "0.1.0"
   },
   "host": {
     "api": "setup-host/1",
-    "sha256": "459030d2bd1a7041ec7d75de5e856ffcf7c30f7bc13db5b7b5db80504a3f2703"
+    "sha256": "57096b904158dd4e26fcd3e4faaf559df45140eceff373d9191beabf443eee2a"
   },
   "installer": {
     "format": "setup/1",
-    "sha256": "cdc338e59bf0118e01fdba0acd17e37a9f2839fe4d22d9b95f44280c036e4674"
+    "sha256": "873a6a0a651586d6124fbf0305d6457b7e2ef0329f7465150095662f1e8fb199"
   },
   "payload": {
     "mode": "embedded",
     "file": "payload.zip",
-    "size": 66130725,
+    "size": 66130832,
     "compression": "optimal",
     "fileCount": 415
   },
-  "payloadSha256": "0790be23675bc39695310af4592ff2fa2ce0b6e191b9eb2e36c8efbd84e3baff",
+  "payloadSha256": "72e48216badbe8544d733084ed3cb48438439c479baeadba7ab9baff931459a6",
   "files": [
     {
       "path": "Accessibility.dll",
@@ -187,7 +187,7 @@
     {
       "path": "Sinteya.SetupBuilder.Core.dll",
       "size": 80384,
-      "sha256": "fc91ca867a4ea24c6633b06ecc413e4d0041e84894f5751d944020ff4798f336"
+      "sha256": "6c7811ae258c92662bfe62d9ea8a20c47bcce4dbe23c657dba37e5c83a7432cc"
     },
     {
       "path": "SinteyaSetupBuilder.deps.json",
@@ -197,12 +197,12 @@
     {
       "path": "SinteyaSetupBuilder.dll",
       "size": 232448,
-      "sha256": "dd80ce90a3abe46167b65ec10a6adb775d5f0287da90c5df3eeae851420c54cb"
+      "sha256": "d5dc37e40525705ed63e15ddcebf8cf1d1e63615f14e53f8286b0520aaaa63a9"
     },
     {
       "path": "SinteyaSetupBuilder.exe",
       "size": 193024,
-      "sha256": "003934f8080c03947d38bb69719a46e15753a256c079a6b7cf3fd32020141026"
+      "sha256": "9741523b8f8f379df0556007d0cb5f52acc4aa726ea948fe8550124169e255dd"
     },
     {
       "path": "SinteyaSetupBuilder.runtimeconfig.json",
@@ -1452,17 +1452,17 @@
     {
       "path": "host/SinteyaSetupHost.exe",
       "size": 317440,
-      "sha256": "459030d2bd1a7041ec7d75de5e856ffcf7c30f7bc13db5b7b5db80504a3f2703"
+      "sha256": "57096b904158dd4e26fcd3e4faaf559df45140eceff373d9191beabf443eee2a"
     },
     {
       "path": "host/SinteyaUninstall.exe",
       "size": 288256,
-      "sha256": "aa5350f5b1e46499e6252ebba8b5b4539a2eb799d082fa164c0aee9647e85be2"
+      "sha256": "b4baa9661b08c183a297b9b3605150d0e556c0c89ef8a28ad08c8c7cacb66ae1"
     },
     {
       "path": "host/host.json",
       "size": 192,
-      "sha256": "49d37cf750336bf8c9f0146bdc6d6f5cf481d8dd687507dc57f8c22abdee3cef"
+      "sha256": "d19b6cd098ec0f80d7506939d61f3c4d19cdd7452ea85e2e8ba42c9f7a64d00a"
     },
     {
       "path": "hostfxr.dll",
@@ -1972,7 +1972,7 @@
     {
       "path": "uninstall.exe",
       "size": 288256,
-      "sha256": "aa5350f5b1e46499e6252ebba8b5b4539a2eb799d082fa164c0aee9647e85be2"
+      "sha256": "b4baa9661b08c183a297b9b3605150d0e556c0c89ef8a28ad08c8c7cacb66ae1"
     },
     {
       "path": "vcruntime140_cor3.dll",
@@ -2108,7 +2108,7 @@
   "setup": {
     "file": "setup.exe",
     "size": 66448384,
-    "sha256": "0d8912a8d32897ee5fb7251f1e418f81cabcd14571e8e435b26dff6915fc57b1"
+    "sha256": "61e739089363a6aaf31d9002e4ba477d925706013ee124b3d8b3b65ec6c41662"
   },
   "portableZip": null,
   "releaseNotes": "release-notes.md",

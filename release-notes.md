@@ -1,6 +1,6 @@
 # Sinteya Setup Builder 0.1.0
 
-Дата сборки: 2026-11-26 02:18
+Дата сборки: 2026-11-26 03:10
 Издатель: Sinteya
 
 ## Что нового
@@ -30,8 +30,8 @@ setup.exe /S /ACCEPTEULA=1 [/DIR="..."] [/LOG="..."]
 
 ## Контрольные суммы
 
-- `setup.exe` SHA-256: `0d8912a8d32897ee5fb7251f1e418f81cabcd14571e8e435b26dff6915fc57b1`
-- payload SHA-256: `0790be23675bc39695310af4592ff2fa2ce0b6e191b9eb2e36c8efbd84e3baff`
+- `setup.exe` SHA-256: `61e739089363a6aaf31d9002e4ba477d925706013ee124b3d8b3b65ec6c41662`
+- payload SHA-256: `72e48216badbe8544d733084ed3cb48438439c479baeadba7ab9baff931459a6`
 
 Подпись: не подписан.
 
